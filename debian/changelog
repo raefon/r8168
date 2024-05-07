@@ -1,3 +1,9 @@
+r8168 (8.053.00-1) unstable; urgency=medium
+
+  * New upstream release 8.053.00 (2024-05-07).
+
+ -- raefon <raefon@users.noreply.github.com>  Tue, 07 May 2024
+
 r8168 (8.052.01-1-bpo12) unstable; urgency=low
 
   * Backport 8.052.01-1 to Debian 12 for Proxmox VE 8 Kernel compatibility
